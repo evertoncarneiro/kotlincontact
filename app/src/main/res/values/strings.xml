@@ -1,3 +1,7 @@
 <resources>
-    <string name="app_name">kotlincontact</string>
+    <string name="app_name">Contatos</string>
+    <string name="iv_photograph_content_description">iv_photograph</string>
+
+    <string name="menu_1">Menu 1</string>
+    <string name="menu_2">Menu 2</string>
 </resources>
